@@ -1,0 +1,26 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+Before Suite - Configure Environment
+Before Test - Configure Test Execution Report 
+Before Class - Configure Test Data
+Before Method - Open the Browser
+Test Case 1
+After Method - Close the browser
+Before Method - Open the Browser
+Test Case 2
+After Method - Close the browser
+After Class - close the test data
+After Test - close the report
+PASSED: test01
+PASSED: test02
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+After Suite - close the Environment
+
+===============================================
+Default suite
+Total tests run: 2, Passes: 2, Failures: 0, Skips: 0
+===============================================
